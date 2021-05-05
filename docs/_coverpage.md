@@ -2,7 +2,7 @@
 
 # Fairy Blog <small>0.1</small>
 
-> Yubin' Blog that records and organizes the strange things you learn.
+> Yubin' Blog that records and organizes the strange things I have learned.
 
 - Java、Python、C++、Go ...
 - Vue、TypeScript ...
