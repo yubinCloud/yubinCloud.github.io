@@ -1,2 +1,3 @@
 # yubinCloud.github.io
-Yubin's blog for recording.
+
+Yubin blog for recording.
