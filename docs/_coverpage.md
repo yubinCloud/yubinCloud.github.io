@@ -10,4 +10,4 @@
 
 [GitHub](https://github.com/yubinCloud)
 
-[Introduction](#)
+[Introduction](/)

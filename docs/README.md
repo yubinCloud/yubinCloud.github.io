@@ -6,7 +6,7 @@ It's a such lucky that we can meet here. Let me introduce myself first:
 <p align="center">
   <center>I'm YuBin, a college student.</center>
   <em>
-  I'm glad to meet you here. Hope to move forward together with you and make progress together.
+  <center>I'm glad to meet you here. Hope to move forward together with you and make progress together.</center>
   </em>
 </p>
 
