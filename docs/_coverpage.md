@@ -1,12 +1,13 @@
-![logo](_media/fairy-logo.png)
+![logo](_media/portrait.png)
 
-# Fairy Blog <small>0.1</small>
+# Hello，I'm YuBin
 
-> Yubin' Blog that records and organizes the strange things I have learned.
+> I'm glad to meet you here.Hope to move forward together with you and make progress together.
 
-- Java、Python、C++、Go ...
-- Vue、TypeScript ...
-- PyTorch、Keras ...
+- A college student
+- A programmer who loves technology
+- Someone who loves life
 
 [GitHub](https://github.com/yubinCloud)
-[Get Started](#docsify)
+
+[Introduction](#)
